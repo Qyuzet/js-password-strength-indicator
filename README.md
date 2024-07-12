@@ -14,7 +14,11 @@
 
 ## Overview
 
-This repository contains a simple password strength indicator built with JavaScript. The indicator dynamically evaluates the strength of a password and provides real-time feedback to the user.
+This repository contains a simple password strength indicator built with JavaScript. The indicator dynamically evaluates the strength of a password and provides real-time feedback to the user [TRY NOW!](https://qyuzet.github.io/js-password-strength-indicator/).
+
+![image](https://github.com/user-attachments/assets/05187daf-5b0a-4add-a30f-b0d538b74dc6)
+
+
 
 ## Features
 
